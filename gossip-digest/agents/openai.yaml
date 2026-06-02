@@ -1,0 +1,4 @@
+interface:
+  display_name: "聊天关系梳理"
+  short_description: "证据驱动梳理群聊事件和人物关系"
+  default_prompt: "Use $gossip-digest to turn these chat logs, screenshots, or incident materials into a concise evidence-based summary, relationship graph, timeline, and uncertainty notes."
